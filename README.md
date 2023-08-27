@@ -22,8 +22,14 @@
 
 ## Acesso ao projeto
 
-Links para o código de cada exercício:
-- [Exercicio 1](https://github.com/PedroQueiroz1/Ada_Santander/tree/main/ExerciciosAda/src/main/java/br/com/ada/exercicioum).
-- [Exercicio 2](https://github.com/PedroQueiroz1/Ada_Santander/tree/main/ExerciciosAda/src/main/java/br/com/ada/exerciciodois).
-- [Exercicio 3](https://github.com/PedroQueiroz1/Ada_Santander/tree/main/ExerciciosAda/src/main/java/br/com/ada/exerciciotres).
-- [Exercicio 4](https://github.com/PedroQueiroz1/Ada_Santander/tree/main/ExerciciosAda/src/main/java/br/com/ada/exercicioquatro).
+Links para o código de cada exercício do módulo [2]:
+- [Exercicio 1](https://github.com/PedroQueiroz1/Ada_Santander/tree/main/src/main/java/br/com/ada/modulodois/exercicioum).
+- [Exercicio 2](https://github.com/PedroQueiroz1/Ada_Santander/tree/main/src/main/java/br/com/ada/modulodois/exerciciodois).
+- [Exercicio 3](https://github.com/PedroQueiroz1/Ada_Santander/tree/main/src/main/java/br/com/ada/modulodois/exerciciotres).
+- [Exercicio 4](https://github.com/PedroQueiroz1/Ada_Santander/tree/main/src/main/java/br/com/ada/modulodois/exercicioquatro).
+
+Links para o código de cada exercício do módulo [3]:
+- [Exercicio 1](https://github.com/PedroQueiroz1/Ada_Santander/tree/main/src/main/java/br/com/ada/modulotres/exercicioum).
+- [Exercicio 2](https://github.com/PedroQueiroz1/Ada_Santander/tree/main/src/main/java/br/com/ada/modulotres/exerciciodois).
+- [Exercicio 3](https://github.com/PedroQueiroz1/Ada_Santander/tree/main/src/main/java/br/com/ada/modulotres/exerciciotres).
+- [Exercicio 4]().
