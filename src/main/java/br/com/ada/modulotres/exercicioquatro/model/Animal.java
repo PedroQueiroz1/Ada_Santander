@@ -1,10 +1,13 @@
 package br.com.ada.modulotres.exercicioquatro.model;
 
-public class Pessoa {
+public abstract class Animal {
 
     private String nome;
+    private int idade;
 
-    private Byte idade;
+    public abstract void comer();
+
+    public abstract void dormir();
 
     public String getNome() {
         return nome;
@@ -14,16 +17,12 @@ public class Pessoa {
         this.nome = nome;
     }
 
-    public Byte getIdade() {
+    public int getIdade() {
         return idade;
     }
 
-    public void setIdade(Byte idade) {
+    public void setIdade(int idade) {
         this.idade = idade;
     }
 
-    @Override
-    public String toString() {
-        return nome + " (" + idade + " anos)";
-    }
 }
