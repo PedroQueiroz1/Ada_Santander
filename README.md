@@ -1,4 +1,4 @@
-# <h1 align="center"> Ada + Santander - Lista de exercícios </h1>
+# <h1 align="center"> Ada - Santander Coders 2023 -> Lista de exercícios </h1>
 ![GitHub repo size](https://img.shields.io/github/repo-size/PedroQueiroz1/Ada_Santander?style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/PedroQueiroz1/Ada_Santander?style=plastic)
 
