@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/PedroQueiroz1/Ada_Santander?style=plastic)
 
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 
 ### Tópicos 
@@ -32,4 +32,6 @@ Links para o código de cada exercício do módulo [3]:
 - [Exercicio 1](https://github.com/PedroQueiroz1/Ada_Santander/tree/main/src/main/java/br/com/ada/modulotres/exercicioum).
 - [Exercicio 2](https://github.com/PedroQueiroz1/Ada_Santander/tree/main/src/main/java/br/com/ada/modulotres/exerciciodois).
 - [Exercicio 3](https://github.com/PedroQueiroz1/Ada_Santander/tree/main/src/main/java/br/com/ada/modulotres/exerciciotres).
-- [Exercicio 4](). ((A FAZER)) 
+- [Exercicio 4](https://github.com/PedroQueiroz1/Ada_Santander/tree/main/src/main/java/br/com/ada/modulotres/exercicioquatro).
+- [Exercicio 5](https://github.com/PedroQueiroz1/Ada_Santander/tree/main/src/main/java/br/com/ada/modulotres/exerciciocinco).
+
